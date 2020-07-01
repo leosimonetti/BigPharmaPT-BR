@@ -1,0 +1,229 @@
+{
+	"endings":[
+		{
+			"id":"getridof",
+			"endings":["-Diminuidor","-Nunca-Mais","-Fora"," Apanhador"," Batedor"," Pisoteador"," Caçador"," Banidor", " Triturador", " Justiceiro", " Reconfortante", " Aliviador", " Apaziguador"]
+		},
+		{
+			"id":"reduce",
+			"endings":[" Redutor"," Abaixador"," Aliviador", " Apaziguador", "-Mate", " Ajudante", "-Diminuidor", " Camarada"]
+		},
+		{
+			"id":"increase",
+			"endings":[" Somador"," Criador"," Amplificador", " Enlarguecedor", " Fortalecedor", " Aumentador", " Melhorador"]
+		}
+	
+	],
+	
+	"addons":[" Max"," Pro"," 2.0"," Maxi", " Plus", " Xtreme", " Extra", " XL", " Ultra", " Ultimate", " Elite", " Power", " +", " Intense", " Supreme"],
+	"starts":[
+		{
+			"id":"cough",
+			"names":["Tosse","Tosse Torácica"],
+			"endType":"getridof"
+		},
+		{
+			"id":"painkiller",
+			"names":["Dor","Sofrimento"],
+			"endType":"getridof"
+		},
+		{
+			"id":"migraine",
+			"names":["Dor de Cabeça","Enxaqueca"],
+			"endType":"getridof"
+		},
+		{
+			"id":"antiseizure",
+			"names":["Convulsão","Ataque epilético"],
+			"endType":"getridof"
+		},
+		{
+			"id":"anesthetic",
+			"names":["Dormir","Hora de Dormir","Despertar","Hora para dormir","Inconsciente"]
+		},
+		{
+			"id":"hypertension",
+			"names":["Pressão Sanguínea", "Hipertensão"],
+			"endType":"reduce"
+		},
+		{
+			"id":"angina",
+			"names":["Angina"],
+			"endType":"getridof"
+		},
+		{
+			"id":"stroke",
+			"names":["Derrame"],
+			"endType":"getridof"
+		},
+		{
+			"id":"sicklecell",
+			"names":["Anemia Falciforme"],
+			"endType":"reduce"
+		},
+		{
+			"id":"antidepressants",
+			"names":["Alegre","Sorridente","Positividade","Felicidade"],
+			"endType":"increase"
+		},
+		{
+			"id":"adhd",
+			"names":["TDAH"],
+			"endType":"reduce"
+		},
+		{
+			"id":"bipoladisorder",
+			"names":["Bipolar"],
+			"endType":"reduce"
+		},
+		{
+			"id":"schizophrenia",
+			"names":["Esquizofrenia"],
+			"endType":"reduce"
+		},
+		{
+			"id":"alzheimers",
+			"names":["Alzheimer's"],
+			"endType":"reduce"
+		},
+		{
+			"id":"antihistamine",
+			"names":["Alergia", "Histamina"],
+			"endType":"getridof"
+		},
+		{
+			"id":"insomnia",
+			"names":["Ajuda Você Dormir","Ronca Mais","Sonecó-có-ri-cóó","Cochila Mais","Soneca Mais","Dorme Mais","Ajuda Você Roncar","Super Soneca","Não-quebra Sono","Dormir Suave","Dorme Plácido","Amigo do Sono","Amigo da Soneca","Amigo do Ronco","Ronco Plácido","Belo Adormecido","Amigo Adormecido"]
+		},
+		{
+			"id":"anxiety",
+			"names":["Ansiedade","Estresse"],
+			"endType":"reduce"
+		},
+		{
+			"id":"asthma",
+			"names":["Respira","Asma","Asma-Atak"],
+			"endType":"reduce"
+		},
+		{
+			"id":"bronchitis",
+			"names":["Bronquite"],
+			"endType":"getridof"
+		},
+		{
+			"id":"tuberculosis",
+			"names":["Tuberculose"],
+			"endType":"getridof"
+		},
+		{
+			"id":"rash",
+			"names":["Erupção Cutânea","Coceira","Descamação"],
+			"endType":"getridof"
+		},
+		{
+			"id":"acne",
+			"names":["Espinhas","Manchas","Acne","Pereba"],
+			"endType":"getridof"
+		},
+		{
+			"id":"hairloss",
+			"names":["Cabelo","Juba","Trança","Anel","Couro","Cachos","Tranças","Penugem"],
+			"endType":"increase"
+		},
+		{
+			"id":"cold",
+			"names":["Resfriado","Coriza","Dor de Garganta"],
+			"endType":"getridof"
+		},
+		{
+			"id":"antibiotics",
+			"names":["Infecção","Bactéria","Biotica"],
+			"endType":"getridof"
+		},
+		{
+			"id":"antimalarial",
+			"names":["Maleita","Mosquito","Malária"],
+			"endType":"getridof"
+		},
+		{
+			"id":"aids",
+			"names":["AIDS"],
+			"endType":"reduce"
+		},
+		{
+			"id":"hiv",
+			"names":["Vacina anti HIV","Uma Vacina anti HIV","Vacina Universal Anti HIV","O Soco no HIV"]
+		},
+		{
+			"id":"acidreflux",
+			"names":["Dor de Estômago","Ácido","Refluxo"],
+			"endType":"getridof"
+		},
+		{
+			"id":"gastroenteritis",
+			"names":["Úlcera","Ulceroso","Dor de Estômago"],
+			"endType":"getridof"
+		},
+		{
+			"id":"appetite",
+			"names":["Mordidela","Lanche","Apetite","Larica","Comer"],
+			"endType":"getridof"
+		},
+		{
+			"id":"boweldisease",
+			"names":["Doença Intestinal","Desarranjos Intestinais","Problemas Intestinais"],
+			"endType":"getridof"
+		},
+		{
+			"id":"diabetes",
+			"names":["Diabete","Diabetes"],
+			"endType":"reduce"
+		},
+		{
+			"id":"hyperthyroidism",
+			"names":["HiperTireoide","Hipertiroidismo"],
+			"endType":"reduce"
+		},
+		{
+			"id":"cancersymptoms",
+			"names":["Câncer"],
+			"endType":"reduce"
+		},
+		{
+			"id":"multiplesclerosis",
+			"names":["Eclerose Múltipla"],
+			"endType":"reduce"
+		},
+		{
+			"id":"cancervaccine",
+			"names":["Vacina Anti Cancer","Soco Universal no Cancer","Vacina Universal Anti Cancer","O Soco C", "A Vacina C"]
+		},
+		{
+			"id":"gout",
+			"names":["Gota"],
+			"endType":"getridof"
+		},
+		{
+			"id":"liverdisease",
+			"names":["Doença Hepática","Problema no Fígado"],
+			"endType":"getridof"
+		},
+		{
+			"id":"warts",
+			"names":["Verruga","Cresce Verruga","Verruga Descamativa","Verruga Fúngica"],
+			"endType":"getridof"
+		},
+		{
+			"id":"femalecontraceptive",
+			"names":["Contraceptivo Feminino","Gravidez-Fora","Gravidez-Atak","Gravidez-Nunca-Mais","Bloqueia Gravidez","Caça Gravidez","Para-Gravidez","Escudo Anti Gravidez","G-Escudo"]
+		},
+		{
+			"id":"erectiledysfunction",
+			"names":["Amor Maior","Amante Maior","Prazer Prolongado","Amor Funcional","Amor Bandido","Duração Plus","Função Erétil","Reforça Amor","Ereto","Reforço Ereto","Brinde Ereto","Acende Ereção","Acendedor de Ereção","Paixão Ereta"]
+		},
+		{
+			"id":"malecontraceptive",
+			"names":["Mata-esperma","Esperma-fora","Espermocina","Espermacida","Bloqueia Esperma", "Escudo Esperma", "Esperma-Block","Esperma-stop","Defesa Esperma","Antiesperma"]
+		}
+	]
+}

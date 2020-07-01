@@ -1,0 +1,287 @@
+{
+	"order":["firstPart","secondPart","type"],
+	"includeSpaces":true,
+	"firstPart":[
+		"Não-refinado",
+		"Purificado",
+		"Bruto",
+		"Reagido",
+		"Multicolorido",
+		"Aromático",
+		"Árido",
+		"Biodegradável",
+		"Amargo",
+		"Machucado",
+		"Cultivado",
+		"Congelado",
+		"Genuíno",
+		"Dessecado",
+		"Espumoso",
+		"Raro",
+		"Manchado",
+		"Reformado",
+		"Excavado",
+		"Cintilante",
+		"Azedo",
+		"Ácido",
+		"Pegajoso",
+		"Murcho",
+		"Anidro",
+		"Africana",
+		"Continental",
+		"Emborrachado",
+		"Polimerizado",
+		"Isomerizado",
+		"Espinhoso",
+		"Salgado",
+		"Borrachudo",
+		"Dúctil",
+		"Maleável",
+		"Volátil",
+		"Gelatinoso",
+		"Úmido",
+		"Desionizado",
+		"Efervescente",
+		"Bilioso"
+	],
+	
+	"secondPart":[
+		"Grub Grub",
+		"Bipoxi",
+		"Casca de Mabari",
+		"Hicalartis",
+		"Zilica",
+		"Alcalino",
+		"Mosca da Sopa",
+		"Yambutan",
+		"Jangostein",
+		"Pangsat",
+		"Jackear",
+		"Cobra Madeira",
+		"Fruta Nublada",
+		"Matária",
+		"Bantodé",
+		"Metalácio",
+		"Violiticus",
+		"Acidifolia",
+		"Fervilei",
+		"Ácido Xálico",
+		"Ácido Fítrico",
+		"Fortis",
+		"Regia",
+		"Zurite",
+		"Amiliso",
+		"Buriano",
+		"Mercurox",
+		"Dilicato",
+		"Ferrixianido",
+		"Hipocriolato",
+		"Veritas",
+		"Equinoderma",
+		"Água-viva"
+	],
+	
+	"powders":[
+		"Pó",
+		"Poeira",
+		"Precipitado",
+		"Resíduo",
+		"Cinza",
+		"Partículas"
+	],
+	
+	"crystals":[
+		"Cristais",
+		"Concentração",
+		"Quartzo"
+	],
+	
+	"solutions":[
+		"Suco",
+		"Seiva",
+		"Solução",
+		"Óleo",
+		"Líquido",
+		"Extrato",
+		"Destilado",
+		"Concentração",
+		"Essência",
+		"Tintura",
+		"Secreção",
+		"Descarga"
+	],
+	
+	"oils":[
+		"Suco",
+		"Seiva",
+		"Solução",
+		"Óleo",
+		"Líquido",
+		"Extrato",
+		"Destilado",
+		"Concentração",
+		"Essência",
+		"Tintura",
+		"Secreção",
+		"Descarga"
+	],
+	
+	"gases":[
+		"Gás",
+		"Vapor",
+		"Essência",
+		"Ar",
+		"Extrato",
+		"Emanação",
+		"Fumaça",
+		"Spray",
+		"Vapor-úmido",
+		"Névoa"
+	],
+	
+	"amber":[
+		"Âmbar",
+		"Cristal",
+		"Gema",
+		"Quartzo"
+	],
+	
+	"gem":[
+		"Cristal",
+		"Gema",
+		"Quartzo"
+	],
+	
+	"ore":[
+		"Minério",
+		"Minerais",
+		"Rocha",
+		"Nacos",
+		"Pedaços"
+	],
+	
+	"pellets":[
+		"Bolinhas",
+		"Grânulos",
+		"Grãos",
+		"Precipitados",
+		"Nacos",
+		"Peças"
+	],
+	
+	"rbflask":[
+		"Suco",
+		"Seiva",
+		"Solução",
+		"Óleo",
+		"Líquido",
+		"Extrato",
+		"Destilado",
+		"Concentração",
+		"Essência",
+		"Tintura",
+		"Secreção",
+		"Descarga"
+	],
+	
+	"shavings":[
+		"Limalha",
+		"Aparas",
+		"Resíduos"
+	],
+	
+	"pills":[
+		"Pílulas"
+	],
+	
+	"creams":[
+		"Creme"
+	],
+	
+	"sachets":[
+		"Sachê"
+	],
+	
+	"syringes":[
+		"Seringa"
+	],
+	
+	// CHEMICAL NAMES - These don't need to be translated
+	"chemicalStarts":[
+		"Adamant",
+		"Bot",
+		"Cal",
+		"Cad",
+		"Dec",
+		"Et",
+		"Ab",
+		"Acer",
+		"Def",
+		"Ex",
+		"Fruc",
+		"Grat",
+		"Hod",
+		"Ir",
+		"Jud",
+		"Ap",
+		"Laet",
+		"Med",
+		"Onus",
+		"Ret",
+		"Pat",
+		"Pro",
+		"Quar",
+		"Redon",
+		"Satag",
+		"Unus",
+		"Velox",	
+		"Vult",
+		"Quen",
+		"Xen"
+	],
+	// These don't need to be translated
+	"chemicalEnds":[
+		"eno",
+		"ino",
+		"ito",
+		"afos",
+		"ereno",
+		"aleno",
+		"ifos",
+		"amino",
+		"amicin",
+		"omicin",
+		"achurin",
+		"inon",
+		"on",
+		"onito",
+		"acido",
+		"ocido",
+		"icido",
+		"ox",
+		"itox",
+		"etox",
+		"itox",
+		"alito",
+		"aliko",
+		"ick",
+		"acito",
+		"etin",
+		"in",
+		"otic",
+		"atic",
+		"ate",
+		"ane",
+		"oxin",
+		"itoxin",
+		"atoxin",
+		"ulin",
+		"olic",
+		"alic",
+		"ilic",
+		"one",
+		"izono",
+		"azono",
+		"etono"
+	]
+}
