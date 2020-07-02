@@ -20,7 +20,7 @@
 		"Raro",
 		"Manchado",
 		"Reformado",
-		"Excavado",
+		"Escavado",
 		"Cintilante",
 		"Azedo",
 		"Ácido",
@@ -40,7 +40,7 @@
 		"Volátil",
 		"Gelatinoso",
 		"Úmido",
-		"Desionizado",
+		"Deionizado",
 		"Efervescente",
 		"Bilioso"
 	],
@@ -191,7 +191,7 @@
 	],
 	
 	"pills":[
-		"Pílulas"
+		"Comprimidos"
 	],
 	
 	"creams":[

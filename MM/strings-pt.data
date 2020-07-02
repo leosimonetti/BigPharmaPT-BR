@@ -182,7 +182,7 @@
 	{"code":"nondrowsy","text":"Não-sedativo"},
 	{"code":"expectorant","text":"Expectorante"},
 	{"code":"nongreasy","text":"Não gorduroso"},
-	{"code":"antiinflammatory","text":"Anti-inflammatório"},
+	{"code":"antiinflammatory","text":"Anti-inflamatório"},
 	{"code":"lubricating","text":"Lubrificate"},
 	
 	// Booster criteria
@@ -285,7 +285,7 @@
 	{"code":"tutorial7-mm-b","text":"Cada ingrediente que você descobriu possui um botão de atualização. Passe o mouse sobre ele para ver o custo da atualização e o bônus que ele concederá."},
 	{"code":"tutorial7-mm-c","text":"Tente atualizar um de seus ingredientes clicando no botão de atualização."},
 	{"code":"tutorial7-mm-d","text":"Observe que o indicador abaixo do botão de atualização acendeu. Isso mostra a que nível de atualização cada ingrediente está. Existe um nível máximo de atualização de 5.\n\nEm um jogo real no Big Pharma, você desejará concentrar suas atualizações nos ingredientes que você está importando muito ou que têm um alto preço de importação.\n\n&TITLE>Atualizando a Pesquisa&W>\n\nNavegue até a &LTBLUE>Aba Pesquisa&W>. A atualização de projetos de pesquisa é muito semelhante à atualização de ingredientes. Seu total atual de &LTBLUE>Pontos de Atualização de Pesquisa&W> é mostrado no canto superior direito da tela."},
-	{"code":"tutorial7-mm-e","text":"Qualquer projeto de pesquisa que tenha um botão de atualização pode ser atualizado.\n\nAo contrário das atualizações de ingredientes, o bônus que você receberá por cada atualização depende do projeto de pesquisa específico. Por exemplo, as atualizações de máquinas normalmente produzem uma redução no custo do processo, enquanto os projetos de infraestrutura geralmente oferecem bônus globais para toda a empresa.\n\nPara este tutorial, precisamos atualizar o projeto & LTBLUE>Analisador&W>."},
+	{"code":"tutorial7-mm-e","text":"Qualquer projeto de pesquisa que tenha um botão de atualização pode ser atualizado.\n\nAo contrário das atualizações de ingredientes, o bônus que você receberá por cada atualização depende do projeto de pesquisa específico. Por exemplo, as atualizações de máquinas normalmente produzem uma redução no custo do processo, enquanto os projetos de infraestrutura geralmente oferecem bônus globais para toda a empresa.\n\nPara este tutorial, precisamos atualizar o projeto &LTBLUE>Analisador&W>."},
 	{"code":"tutorial7-mm-f","text":"Atualize o &LTBLUE>Analizador&W> para o nível máximo (3). Isso agilizará o processo de análise que usaremos posteriormente neste tutorial.\n\n&TITLE>A Máquina Analisadora&W>\n\nNavegue de volta à &TAB>Aba Produção&W>.\n\nDepois, melhoraremos o medicamento para &eff1>Angina&W> que vendemos. Monte sua máquina &LTBLUE>Analizadora&W> recém-atualizada na posição marcada abaixo. Você encontrará o &LTBLUE>Analisador&W> na barra de ferramentas &LTBLUE>Auxiliar&W>."},
 	{"code":"tutorial7-mm-g","text":"Agora exclua a parte existente das esteiras na linha de produção usando o botão direito e construa esteiras para conectar o fluxo do medicamentos &eff1>Trata Angina&W> ao &LTBLUE>Analisador&W>."},
 	{"code":"tutorial7-mm-h","text":"O seu &LTBLUE>Analizador&W> começará a analisar os efeitos contidos nos medicamentos. Observe que os medicamentos são destruídos durante o processo de análise.\n\nApós vários ingredientes terem entrado na máquina, você receberá duas mensagens informando que a análise está concluída em cada um dos efeitos dentro do seu ingrediente.\n\nVocê pode usar os controles de tempo para acelerar o processo, se desejar."},
